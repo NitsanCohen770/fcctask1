@@ -1,0 +1,49 @@
+body {
+  font-family: 'Bellefair', serif;
+  text-align: center;
+}
+
+ul {
+  list-style-position: inside;
+  list-style-type: none;
+}
+
+#main {
+  background-color: darkcyan;
+}
+
+#title {
+  background-image: linear-gradient(red, yellow);
+}
+
+#img-div {
+  background-color: burlywood;
+}
+
+ul li {
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+}
+
+p {
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+}
+
+#img-caption {
+  display: inline;
+  margin: auto;
+  width: 30%;
+  font-size: x-large;
+}
+
+#img-div {
+  display: flex;
+  text-align: center;
+}
+
+li {
+  font-size: larger;
+}
